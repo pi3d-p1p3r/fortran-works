@@ -1,0 +1,17 @@
+ The equation is ax^2+bx+c=0
+
+
+ The constant terms are: 
+ 2.00
+
+-7.00
+
+ 5.00
+
+
+
+ The roots are x1 and x2
+ The roots are real
+ The roots are: 
+x1=  2.50
+x2=  1.00

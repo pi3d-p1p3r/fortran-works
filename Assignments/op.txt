@@ -1,0 +1,22 @@
+ read m,n,p,q: 
+ a: 
+           4          -1
+           0           2
+
+
+ b: 
+           1           4           2
+           3           1           5
+
+
+ the product is: 
+           1          15           3
+           6           2          10
+
+
+ the matmul product is: 
+           1          15           3
+           6           2          10
+
+
+ verified
